@@ -18,4 +18,4 @@ Hi, I'm Charlie.
 
 I am a <b>Senior Computer Vision Research Scientist</b> at Mathworks' Advanced Research & Technology Office, where I aim to accelerate and amplify the impact of academic research on MathWorks' products. Before this, I was a research scientist at Meta (aka Facebook, when I was there!) Reality Labs, working on depth sensors for AR and VR products. 
 
-I have a PhD in Electrical Engineering from Boston University, where I worked on exciting computational imaging problems under the guidance of Vivek K Goyal. Prior to that, I lived in the UK, where I received a Master's degree in Acoustical Engineering from the University of Southampton.
+I have a PhD in Electrical Engineering from Boston University, where I worked on [exciting computational imaging problems](https://hdl.handle.net/2144/43116) as a member of Vivek K Goyal's [STIR lab](https://vivekgoyal.org/). Prior to that, I lived in the UK, where I received a Master's degree in Acoustical Engineering from the University of Southampton.
