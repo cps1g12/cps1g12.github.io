@@ -21,4 +21,4 @@ I am a <b>Senior Computer Vision Research Scientist</b> at Mathworks' Advanced R
 
 I have a PhD in Electrical Engineering from Boston University, where I worked on [exciting computational imaging problems](https://hdl.handle.net/2144/43116) as a member of Vivek K Goyal's [STIR lab](https://vivekgoyal.org/). Prior to that, I lived in the UK, where I received a Master's degree in Acoustical Engineering from the University of Southampton.
 
-<p> <i class="ai ai-google-scholar ai-2x"></i> Google scholar </p>
+<i class="ai ai-google-scholar ai-2x"></i> Google scholar
